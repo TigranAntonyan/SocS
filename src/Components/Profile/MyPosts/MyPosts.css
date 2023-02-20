@@ -1,0 +1,13 @@
+.myposts {
+    grid-area: c;
+    background-color: rgb(169, 199, 169);
+    
+  }
+
+.myposts img {
+  width: 50px;
+}
+
+.posts {
+  margin-top: 30px;
+}
